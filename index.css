@@ -25,12 +25,12 @@
   .title {
     font-size: 3rem;
     margin-bottom: 20px;
-    color: #f0f;
+    color: rgb(154, 137, 210);
     transition: color 0.3s ease-in-out;
   }
   
   .title:hover {
-    color: #fff;
+    color: #aea0a0;
   }
   
   .description {
